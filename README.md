@@ -1,0 +1,2 @@
+# Docker
+Windows下Odoo的Docker环境的搭建以及pycharm使用docker运行odoo
